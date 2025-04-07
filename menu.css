@@ -1,0 +1,39 @@
+.mama {
+    font-size: larger;
+   background-color: rgb(243, 255, 218);
+   border-radius: 20px;
+   padding: 100px;
+   margin: auto;
+   margin-top: 20px;
+   color: rgb(14, 14, 14);
+   font-family: Arial, Helvetica, sans-serif;
+   text-align: center;
+   width: 40%;
+   
+}
+
+.button-style {
+    font-size: larger;
+    background-color: rgb(243, 255, 218);
+    border-radius: 20px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 20px;
+    color: rgb(14, 14, 14);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    width: 40%;
+}
+
+.button-style2 {
+    font-size: larger;
+    background-color: rgb(243, 255, 218);
+    border-radius: 20px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 20px;
+    color: rgb(14, 14, 14);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    width: 40%;
+}
